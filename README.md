@@ -105,8 +105,8 @@ Este tema lo podemos tratar. Yo sugeriría CC-BY-NC 4.0, pero podemos mirarlo lu
 
 **🗣️** [Santiago Ramírez Valencia](https://github.com/SnNig1) \
 **🗣️** [Rubén Fonnegra](https://github.com/rubenfonnegra) \
-**🗣️** Jaime Soto
-
+**🗣️** [Jaime Soto] (https://github.com/jaimesoto) \
+**✉️ Email Institucional:** jaime.ramirez1@pascualbravo.edu.co \
 
 **✉️ Email Institucional:** s.ramirez1@pascualbravo.edu.co \
 **✉️ Email Personal:** santiago.ram.val.22@gmail.com 
